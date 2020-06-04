@@ -13,6 +13,9 @@ version-resolver:
     labels:
       - 'patch'
   default: patch
+categories:
+  - title: 'Breaking changes'
+    label: 'breaking-changes'
 template: |
   ## Changes
 
