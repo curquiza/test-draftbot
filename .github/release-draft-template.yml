@@ -5,10 +5,10 @@ exclude-labels:
 version-resolver:
   major:
     labels:
-      - 'new-stable'
+      - 'major'
   minor:
     labels:
-      - 'breaking-changes'
+      - 'minor'
   patch:
     labels:
       - 'patch'
@@ -17,7 +17,7 @@ categories:
   - title: 'Breaking changes'
     label: 'breaking-changes'
 template: |
-  ## Changes
-
-  $CHANGES 
+  $CHANGES
+  
+  Thanks to $CONTRIBUTORS! 🎉
 no-changes-template: 'Changes will arrive soon 😎'
