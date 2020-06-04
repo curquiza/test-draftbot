@@ -7,3 +7,5 @@ LOL
 Blablabla
 
 ## Title 2
+
+bump-meilisearch-v0.1.3
