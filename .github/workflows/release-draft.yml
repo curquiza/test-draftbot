@@ -2,10 +2,8 @@ name: Release Drafter
 
 on:
   push:
-    # branches to consider in the event; optional, defaults to all
     branches:
       - master
-      - bump-meilisearh-v*
 
 jobs:
   update_release_draft:
