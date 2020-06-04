@@ -17,7 +17,9 @@ categories:
   - title: 'Breaking changes'
     label: 'breaking-changes'
 template: |
+  ## Changes
+  
   $CHANGES
   
-  Thanks to $CONTRIBUTORS! 🎉
+  Thanks again to $CONTRIBUTORS! 🎉
 no-changes-template: 'Changes will arrive soon 😎'
