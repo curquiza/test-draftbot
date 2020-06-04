@@ -2,3 +2,10 @@ template: |
   ## Changes
 
   $CHANGES
+
+categories:
+  - title: 'Fix'
+    labels:
+      - 'fix'
+      - 'bugfix'
+      - 'bug'
