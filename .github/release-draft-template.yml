@@ -1,5 +1,6 @@
-name-template: 'v$NEXT_PATCH_VERSION 💎'
-tag-template: 'v$NEXT_PATCH_VERSION'
+name-template: 'v$RESOLVED_VERSION 💎'
+tag-template: 'v$RESOLVED_VERSION'
+sort-direction: 'ascending'
 exclude-labels:
   - 'skip-changelog'
 version-resolver:
