@@ -1,11 +1,8 @@
+name-template: 'v$NEXT_PATCH_VERSION 💎'
+tag-template: 'v$NEXT_PATCH_VERSION'
 template: |
   ## Changes
 
-  $CHANGES
-
-categories:
-  - title: 'Fix'
-    labels:
-      - 'fix'
-      - 'bugfix'
-      - 'bug'
+  $CHANGES 
+no-changes-template:
+Changes will arrive soon 😎
