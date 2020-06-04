@@ -4,5 +4,4 @@ template: |
   ## Changes
 
   $CHANGES 
-no-changes-template:
-Changes will arrive soon 😎
+no-changes-template: 'Changes will arrive soon 😎'
