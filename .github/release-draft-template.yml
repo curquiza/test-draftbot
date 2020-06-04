@@ -2,6 +2,14 @@ name-template: 'v$NEXT_PATCH_VERSION 💎'
 tag-template: 'v$NEXT_PATCH_VERSION'
 exclude-labels:
   - 'skip-changelog'
+version-resolver:
+  minor:
+    labels:
+      - 'breaking-changes'
+  patch:
+    labels:
+      - 'patch'
+  default: patch
 template: |
   ## Changes
 
