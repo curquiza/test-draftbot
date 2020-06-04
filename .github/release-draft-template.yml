@@ -3,6 +3,9 @@ tag-template: 'v$NEXT_PATCH_VERSION'
 exclude-labels:
   - 'skip-changelog'
 version-resolver:
+  major:
+    labels:
+      - 'new-stable'
   minor:
     labels:
       - 'breaking-changes'
