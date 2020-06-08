@@ -7,9 +7,6 @@ version-resolver:
   minor:
     labels:
       - 'breaking-change'
-  patch:
-    labels:
-      - 'patch'
   default: patch
 categories:
   - title: 'Breaking changes'
