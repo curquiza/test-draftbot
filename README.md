@@ -2,6 +2,8 @@
 
 LOL 2
 
+## Table of Contents
+
 ## Title 1
 
 Blablabla
