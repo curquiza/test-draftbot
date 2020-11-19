@@ -2,7 +2,7 @@
 
 LOL 2
 
-## Table of Contents
+## TOC
 
 ## Title 1
 
